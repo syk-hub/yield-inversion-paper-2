@@ -1,4 +1,4 @@
-# Yield Inversion — Paper 1: FRED API Pipeline
+# Yield Inversion — Paper 2: FRED API Pipeline
 
 Minimal, reproducible pipeline to pull 10Y, 2Y, and 3M Treasury yields from FRED and compute common inversion spreads.
 
